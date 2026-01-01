@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/digital-garden/soenke-ahrens/","tags":["Ahrens","Sönke"],"created":"2025-12-19T09:20:02.880-06:00","updated":"2025-12-31T05:40:23.927-06:00"}
+---
+
+#Sönke #Ahrens is the primary reason you are reading about [[Digital Garden/Zettelkasten\|Zettelkasten]] and [[Digital Garden/Digital Garden\|Digital Garden]]s today. He wrote the book "[[How to Take Smart Notes\|How to Take Smart Notes]]" in 2017 that started the snowball rolling for Digital Gardens. It processed Luhmann's difficult system of knowledge collection and wrote a manual for it so that many others could follow and understand it better using three steps. The [[Digital Garden/Fleeting Note\|Fleeting Note]], [[Digital Garden/Literature Note\|Literature Note]] and [[Digital Garden/Permanent Note\|Permanent Note]].

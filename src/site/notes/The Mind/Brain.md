@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/the-mind/brain/","created":"2025-12-30T03:03:10.072-06:00","updated":"2025-12-31T05:40:15.142-06:00"}
+---
+
+# The brain can be divided into three parts. The cerebellum, cerebrum and brainstem.
+* **The [[cerebrum\|cerebrum]] (front of brain) is comprised of gray matter (outer) and white matter (inner).**
+* It coordinates movement and temperature. It also enables speech, judgment, thinking, reasoning, problem solving, emotions and learning. It also relates to vision, hearing, touch and other senses. The gray matter is also referred to as the cerebral cortex. It is divided into two hemispheres. The right hemisphere controls the left side of the body and the left hemisphere controls the right side. They communicate to each other through the corpus callosum, a c shaped structure of white matter and nerves. It is located in the center of the cerebrum.
+* **The brainstem connects the cerebrum to the spinal cord. It includes midbrain, pons and medulla.**
+* The **midbrain** (mesencephalon) is a complex structure with a range of different neuron clusters (nuclei and colliculi), neural pathways and other structures. These features facilitate various functions from hearing and movement to calculating responses and environmental changes. It also contains the substantia nigra, an area affected by Parkinson's disease that is rich in dopamine neurons and part of the basal ganglia, which enables movement and coordination.
+* The **pons** is the origin for four of the twelve cranial nerves, which enable tear production, chewing, blinking, focusing vision, balance, hearing and facial expression. the pons is the connection between the midbrain and the medulla.
+* The **medulla** is at the bottom of the brain stem where the brain meets the spinal cord. The medullas functions include heart rhythm, breathing, blood flow, and oxygen and carbon dioxide levels. It produces reflex activities such as sneezing, vomiting, coughing and swallowing.
+* **The cerebellum (little brain) is a fist sized portion of the brain located at the back of the head, below the temporal and the occipital lobes and above the brainstem.**
+* It also has two hemispheres. The outer portion contains neurons and the inner area communicates with the cerebral cortex. It coordinates voluntary movement and to maintain posture, balance and equilibrium. New studies are exploring the cerebellums roles in thought, emotion and social behavior, as well as possible involvement in addiction, autism and schizophrenia.

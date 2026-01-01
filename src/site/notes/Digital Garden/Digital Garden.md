@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","created":"2025-12-19T06:29:57.404-06:00","updated":"2025-12-31T05:40:39.286-06:00"}
+---
+
+🌱 A #Digital #Garden is the modern digital [Zettelkasten](https://dig-two.vercel.app/digital-garden/zettelkasten/) that sits between a blog and a wiki and is published on the interweb "internet". In a digital garden posts are evergreen. Forever alive. Just add new thoughts to it and make it live. Or graft it onto another idea. Unlike a blog that is filled with rigor mortis after 1 week.  
+A digital garden lives in three stages, seedling, budding and evergreen. Originally Fleeting Notes, Permanent Notes and Literature Notes By: [Sönke Ahrens](https://dig-two.vercel.app/digital-garden/soenke-ahrens/). They are written with tools like Obsidian, Notion or Anytype and published using static site generators "SSG's" like Astro.js Jekyll, Hugo or Eleventy "11ty". A digital garden allows you to learn in public "online" by allowing you to record half-baked ideas that, with hope, blossom into evergreens. I think my website uses seedling, blossom and fruit, but it amounts to the same concept.
