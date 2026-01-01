@@ -3,7 +3,7 @@
 ---
 
 # The brain can be divided into three parts. The cerebellum, cerebrum and brainstem.
-* **The [[cerebrum\|cerebrum]] (front of brain) is comprised of gray matter (outer) and white matter (inner).**
+* **The [[The Mind/cerebrum\|cerebrum]] (front of brain) is comprised of gray matter (outer) and white matter (inner).**
 * It coordinates movement and temperature. It also enables speech, judgment, thinking, reasoning, problem solving, emotions and learning. It also relates to vision, hearing, touch and other senses. The gray matter is also referred to as the cerebral cortex. It is divided into two hemispheres. The right hemisphere controls the left side of the body and the left hemisphere controls the right side. They communicate to each other through the corpus callosum, a c shaped structure of white matter and nerves. It is located in the center of the cerebrum.
 * **The brainstem connects the cerebrum to the spinal cord. It includes midbrain, pons and medulla.**
 * The **midbrain** (mesencephalon) is a complex structure with a range of different neuron clusters (nuclei and colliculi), neural pathways and other structures. These features facilitate various functions from hearing and movement to calculating responses and environmental changes. It also contains the substantia nigra, an area affected by Parkinson's disease that is rich in dopamine neurons and part of the basal ganglia, which enables movement and coordination.
